@@ -27,7 +27,7 @@ Criar uma linguagem de programação é um projeto complexo, mas gratificante. A
 ## Livros recomendados para aprender sobre criação de linguagens
 
 ### Em português:
-1. **"Compiladores: Princípios e Práticas"** - Kenneth Louden
+1. <a href="/Main/Ebooks/pt-br/Compiladores - Princípios Técnicas e Ferramentas.pdf">**"Compiladores: Princípios e Práticas"** - Kenneth Louden</a>
 2. **"Linguagens de Programação: Projeto e Implementação"** - Terrence Pratt, Marvin Zelkowitz
 3. **"Construindo Compiladores"** - Charles Fischer, Richard LeBlanc
 
