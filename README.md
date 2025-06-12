@@ -28,25 +28,25 @@ Criar uma linguagem de programação é um projeto complexo, mas gratificante. A
 
 ### Em português:
 1. <a href="/Main/Ebooks/pt-br/Compiladores - Princípios Técnicas e Ferramentas.pdf">**"Compiladores: Princípios e Práticas"** - Kenneth Louden</a>
-2. **"Linguagens de Programação: Projeto e Implementação"** - Terrence Pratt, Marvin Zelkowitz
-3. **"Construindo Compiladores"** - Charles Fischer, Richard LeBlanc
+2. <a href="Main/Ebooks/pt-br/">**"Linguagens de Programação: Projeto e Implementação"** - Terrence Pratt, Marvin Zelkowitz</a>
+3. <a href="Main/Ebooks/pt-br/">**"Construindo Compiladores"** - Charles Fischer, Richard LeBlanc</a>
 
 ### Em inglês (mais opções disponíveis):
-1. **"Crafting Interpreters"** - Robert Nystrom (disponível gratuitamente online)
-2. **"Compilers: Principles, Techniques, and Tools"** (Dragon Book) - Aho, Ullman, Sethi
-3. **"Programming Language Pragmatics"** - Michael Scott
-4. **"Types and Programming Languages"** - Benjamin C. Pierce
-5. **"Modern Compiler Implementation in ML/Java/C"** - Andrew Appel
+1. <a href="Main/Ebooks/ingles/crafting-interpreters.pdf">**"Crafting Interpreters"** - Robert Nystrom (disponível gratuitamente online)</a>
+2. <a href="Main/Ebooks/ingles/Compilers Principles, Techniques, & Tools 2nd Ed.pdf">**"Compilers: Principles, Techniques, and Tools"** (Dragon Book) - Aho, Ullman, Sethi</a>
+3. <a href="Main/Ebooks/ingles/programming-language-pragmatics-2ed.pdf">**"Programming Language Pragmatics"** - Michael Scott</a>
+4. <a href="Main/Ebooks/ingles/Benjamin_C._Pierce-Types_and_Programming_Languages-The_MIT_Press(2002).pdf">**"Types and Programming Languages"** - Benjamin C. Pierce</a>
+5. <a href="Main/Ebooks/ingles/Modern_Compiler_Implementation_in_ML.pdf">**"Modern Compiler Implementation in ML/Java/C"** - Andrew Appel</a>
 
 ## Recursos adicionais
 
 - **Tutoriais online**:
-  - "Let's Build a Compiler" (Jack Crenshaw)
-  - "Make a Lisp" (implementação passo a passo de um LISP)
+  - <a href="https://compilers.iecc.com/crenshaw/">"Let's Build a Compiler" (Jack Crenshaw)</a>
+  - <a>"Make a Lisp" (implementação passo a passo de um LISP)</a>
 
 - **Ferramentas úteis**:
-  - ANTLR (gerador de parsers)
-  - LLVM (infraestrutura para backends de compilação)
-  - Flex/Bison (análise léxica e sintática)
+  - <a href="https://www.antlr.org/">ANTLR (gerador de parsers)</a>
+  - <a href="https://llvm.org/">LLVM (infraestrutura para backends de compilação)</a>
+  - <a href="Main/Ebooks/tools/flex__bison.pdf"> Flex/Bison (análise léxica e sintática)</a>
 
 Começar com uma linguagem simples (como uma calculadora ou um subconjunto de LISP) é uma boa maneira de aprender os conceitos básicos antes de tentar algo mais complexo.
